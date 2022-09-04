@@ -10,13 +10,14 @@ Caso apresente erros ou problemas, entre em contato comigo.
 COMO O QUIZ FUNCIONA:
 Nesse quiz, você terá uma pergunta, depois de um tempinho de leitura, as alternativas serão mostradas, lembrando que cada uma delas estará enumerada, um "timer" de 5 segundos será iniciado, você deve esperar acabar esse tempo, logo após tudo terá desaparecido e apenas uma mensagem será mostrada: "Sua resposta: ", ali você deverá colocar o número da alternativa que você julgar a correta, não esqueca de apertar ENTER depois de digitar o número, se a resposta estiver correta aparecerá uma mensagem o informando e acontece o mesmo se você errar a resposta. Todas as perguntas e alterativas são aleatórias.
 
-OBS.: Não se preocupe se uma mensagem como essa: "sh: 1: cls: not found" aparecer, ela apenas diz que uma certa palavra dentro do código não existe, mas logo após tenta outra que possivelmente existe.
+OBS.: NÃO DIGITE O NÚMERO ANTES DO TIMER ACABAR! Caso tente fazer isso, o número digitado por você não aparecerá e se você digitar novamente o número será repetido pela segunda vez, contabilizando assim como uma resposta errada.
 
 ARQUIVOS PARA BAIXAR CASO VOCÊ ESTEJA EM UM CELULAR OU LINUX:
 "vers_mobile_quizz.py"
 "vers_mobile_Tools.py"
 
 ARQUIVOS PARA BAIXAR CASO VOCÊ ESTEJA EM UM WINDOWS:
-
+"vers_windows_quizz.py"
+"vers_windows_Tools.py"
 
 Boa jogatina :)
