@@ -10,6 +10,6 @@ Caso apresente erros ou problemas, entre em contato comigo.
 COMO O QUIZ FUNCIONA:
 Nesse quiz, você terá uma pergunta, depois de um tempinho de leitura, as alternativas serão mostradas, lembrando que cada uma delas estará enumerada, um "timer" de 5 segundos será iniciado, você deve esperar acabar esse tempo, logo após tudo terá desaparecido e apenas uma mensagem será mostrada: "Sua resposta: ", ali você deverá colocar o número da alternativa que você julgar a correta, não esqueca de apertar ENTER depois de digitar o número, se a resposta estiver correta aparecerá uma mensagem o informando e acontece o mesmo se você errar a resposta. Todas as perguntas e alterativas são aleatórias.
 
-OBS.: Não se preocupe se uma mensagem como essa: "sh: 1: cls: not found" aparecer, ela apenas diz que uma certa palavra dentro do código não existe, mas logo após tenta outra que possivelmente existe.
+OBS.: Não se preocupe se uma mensagem como essa: "sh: 1: cls: not found" aparecer, ela apenas diz que uma certa palavra dentro do código não existe, mas logo após tenta outra que possivelmente existe. Caso você esteja executando esse quiz em um celular ou sistema operacional linux você irá baixar os arquivos que possuem o nome: "vers_mobile". Em um sistema operacional Windows, você irá baixar os arquivos com nome: "vers_wind".
 
 Boa jogatina :)
